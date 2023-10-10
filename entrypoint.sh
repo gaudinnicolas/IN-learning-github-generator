@@ -12,4 +12,4 @@ git add -A && git commit -m "Update Feed"
 git push --set-upstream origin master
 
 
-echo "=============================="
+echo "==============================" 
